@@ -1,0 +1,14 @@
+.idea/*
+*.pyc
+mininet/*
+oflops/*
+oftest/*
+openflow/*
+pox/*
+ryu/*
+*.txt
+*.pkl
+.ipynb_checkpoints/*
+*.npy
+test/.ipynb_checkpoints/*
+
