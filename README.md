@@ -1,4 +1,6 @@
 # Network State Estimation for Congestion Detection in SDN
+This repository provides an implementation of our approach described [here](https://dl.acm.org/doi/abs/10.1145/3154970.3154977) and a simulation environment for the experiments.
+
 In this project, we use estimation theory or machine learning to estimate network state in SDN. This information will be utilized by a congestion detection scheme which will try to locate where the congestion is. The work will be tested in a simulation environment. If time allows, we will also try to present an analytical study for estimation and/or congestion performance.
 
 In order to use our random topology class in mininet simulation, go into
